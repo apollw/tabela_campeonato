@@ -1,2 +1,2 @@
 # tabela_campeonato
-Projeto de tabela de gerenciamento de campeonato de futebol, escrito em C
+Protótipo de programa de gerenciamento de tabelas de campeonatos de futebol, escrito em C padrão.
