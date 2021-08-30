@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1630275890 source:e:\apollw\tabela de times\tabela_de_times\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"team_struct.h"
+
+1629740150 source:e:\apollw\tabela de times\tabela_de_times\team_struct.c
+
+1630288114 source:e:\apollw\tabela de times\tabela_de_times\functions.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"team_struct.h"
+
+1630027374 source:e:\apollw\tabela de times\tabela_de_times\team_struct.h
+
+1630288107 e:\apollw\tabela de times\tabela_de_times\team_struct.h
+
